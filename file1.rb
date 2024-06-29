@@ -1,0 +1,2 @@
+class hello
+moudle goodbye
